@@ -184,6 +184,12 @@
     border: 0.1rem solid var(--primary-color);
 }
 
+.logo img {
+    
+    width: 5rem;
+    height: 5rem;
+}
+
 @media (max-width: 80rem) {
     .intro-content, .grid {
         grid-template-columns: 1fr;
